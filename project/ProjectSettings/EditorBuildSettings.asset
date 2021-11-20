@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/jump.unity
+    guid: edae547c872eca24ab4ffd94add192d6
+  - enabled: 1
+    path: Assets/Scenes/magic.unity
+    guid: 992008a39fd1b68489c3cb30abc78c8e
+  - enabled: 1
+    path: Assets/Scenes/trueEnd.unity
+    guid: 4197e35a0cd68fa429346c84d8280d6d
+  - enabled: 1
+    path: Assets/Scenes/falseEnd.unity
+    guid: de29263a0d8e8cf459271e466f356862
+  - enabled: 1
+    path: Assets/Scenes/start.unity
+    guid: 5bfc04cbe4be9a440b8982a37b3f61ba
+  m_configObjects: {}
